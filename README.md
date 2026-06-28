@@ -84,11 +84,6 @@ The skill will:
 - FYI You will need to work with it, of course, to get your desired outcome a little bit. It’s not able to one-shot. 
 ---
 
-## Philosophy
-
-This project isn't intended to replace creativity.
-
-It's designed to automate the repetitive parts of professional video production so creators can spend more time thinking about ideas and storytelling.
 
 ---
 
