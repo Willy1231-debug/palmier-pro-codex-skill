@@ -1,0 +1,4 @@
+interface:
+  display_name: "Palmier Pro Production"
+  short_description: "Plan, generate assets, and drive Palmier Pro edits through MCP."
+  default_prompt: "Use Palmier Pro Production to turn my video idea into a Palmier Pro project, assets, edit plan, Shorts, thumbnail, and upload package."
