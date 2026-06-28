@@ -113,4 +113,4 @@ If you improve the workflow or add support for additional Palmier MCP capabiliti
 
 ---
 
-Built by Ryan HirsH
+Built by Ryan Hirsh
