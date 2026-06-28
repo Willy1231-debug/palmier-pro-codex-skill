@@ -1,0 +1,25 @@
+# Local/generated production work
+palmier-projects/
+exports/
+review-renders/
+
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.mobileprovision
+
+# Python/cache noise
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Large local media artifacts
+*.mp4
+*.mov
+*.m4v
+*.mp3
+*.wav
+*.aiff
